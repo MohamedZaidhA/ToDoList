@@ -19,7 +19,8 @@ Before running the project, make sure you have the following installed:
 - MySQL Connector/J (JDBC Driver)
 
 In your Java code, update the DB_URL, USERNAME, and PASSWORD to match your local MySQL configuration
-
+![alt text](<Screenshot 2025-06-21 162305.png>)
+![alt text](image.png)
 
 
 
